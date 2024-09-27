@@ -3,3 +3,9 @@ alternate: HarmonyOS生活
 sidebar:
   position: left
   avatar: avatar.jpg
+
+menu:
+  home: / || home
+  about:
+    default: / || user
+    aboutside: /about/ || user
